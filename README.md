@@ -1,4 +1,4 @@
-davidanaya.github.io
+anayadesign.github.io
 =====================
 
 GitHub Page - DavidAnaya.net
