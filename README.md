@@ -1,4 +1,3 @@
 anayadesign.github.io
 =====================
-
-GitHub Username Page - DavidAnaya.net
+Future content of AnayaDesign.com
