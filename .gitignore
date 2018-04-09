@@ -60,7 +60,11 @@ typings/
 # next.js build output
 .next
 
+# Jekyll gitignore
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# Mac OS
+.DS_Store
