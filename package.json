@@ -1,7 +1,11 @@
 {
-  "name": "app",
+  "name": "anaya-site",
   "version": "0.1.0",
+  "author": "David Anaya",
+  "description": "create-react-app for personal portfolio site using gh-pages.",
+  "homepage": "https://anayadesign.github.io",
   "private": true,
+  "repository": "https://github.com/anayadesign/anayadesign.github.io/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.1",
