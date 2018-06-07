@@ -1,0 +1,27 @@
+.header {
+  background-color: #222;
+  padding: 16px;
+  color: white;
+  text-align: center;
+}
+.header--group {
+  display: flex;
+  flex-direction: row;
+  flex: 0 0 0;
+  align-items: center;
+  justify-content: space-between;
+}
+.header--title {
+  font-size: 1.5em;
+  text-align: left;
+}
+.header--intro {
+  font-size: 1em;
+}
+.header--apps {
+  width: 80%;
+  max-width: 320px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
