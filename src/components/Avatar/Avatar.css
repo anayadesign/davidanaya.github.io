@@ -1,0 +1,9 @@
+.avatar {
+  width: 120px;
+  height: 120px;
+}
+.avatar--image {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
