@@ -74,3 +74,6 @@ _site/
 
 # Mac OS
 .DS_Store
+
+# create-react-app
+build/
