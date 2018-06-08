@@ -3,7 +3,11 @@ import './Paragraph.css';
 
 class Paragraph extends Component {
   render() {
-    return <p className="paragraph">{this.props.content}</p>;
+    return (
+      <section className="paragraph--section">
+        <p className="paragraph">{this.props.content}</p>
+      </section>
+    );
   }
 }
 
