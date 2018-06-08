@@ -1,12 +1,12 @@
 .icon-social {
-  width: 24px;
-  height: 24px;
-  fill: white;
+  width: 2em;
+  height: 2em;
   display: block;
 }
+.icon-social:not(:last-child) {
+  margin-right: 1em;
+}
 .icon-social svg {
-  width: 24px;
-  height: 24px;
-  fill: white;
+  fill: #222;
   display: block;
 }

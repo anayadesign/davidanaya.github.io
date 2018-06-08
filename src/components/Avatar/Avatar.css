@@ -1,6 +1,9 @@
 .avatar {
+  max-width: 120px;
   width: 120px;
+  max-height: 120px;
   height: 120px;
+  flex: 1;
 }
 .avatar--image {
   width: 100%;
