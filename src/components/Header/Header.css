@@ -1,27 +1,32 @@
 .header {
-  background-color: #222;
-  padding: 16px;
-  color: white;
-  text-align: center;
+  background-color: #fff;
+  padding: 1.75em 1em 1em;
+  color: #222;
+  max-width: 525px;
+  margin: 0 auto 2.5em;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
 }
 .header--group {
   display: flex;
-  flex-direction: row;
-  flex: 0 0 0;
-  align-items: center;
+  padding-top: 1em;
+  padding-right: 1em;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
   justify-content: space-between;
 }
 .header--title {
   font-size: 1.5em;
   text-align: left;
+  font-weight: normal;
 }
 .header--intro {
   font-size: 1em;
 }
 .header--apps {
-  width: 80%;
-  max-width: 320px;
+  width: 100%;
   margin: 0 auto;
   display: flex;
-  justify-content: space-around;
 }
